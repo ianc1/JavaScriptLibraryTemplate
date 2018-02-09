@@ -9,4 +9,4 @@ The project is configured with the following tools:
 - PhantomJS to run the tests headless on your build server.
 - Webpack to package and minify your code.
 
-To get started, clone the repo and start coding!
+To get started, clone the repo and run `npm install`.

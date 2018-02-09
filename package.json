@@ -1,7 +1,7 @@
 {
   "name": "javascriptlibrarytemplate",
   "version": "1.0.0",
-  "description": "Project template for building a JavaScript library ",
+  "description": "Project template for building a JavaScript library",
   "scripts": {
     "watch": "webpack --watch",
     "build": "webpack -p",
