@@ -1,0 +1,22 @@
+{
+  "name": "javascriptlibrarytemplate",
+  "version": "1.0.0",
+  "description": "Project template for building a JavaScript library ",
+  "scripts": {
+    "watch": "webpack --watch",
+    "build": "webpack -p",
+    "test": "karma start --single-run",
+    "karma": "karma start",
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "eslint": "4.17.0",
+    "eslint-loader": "1.9.0",
+    "jasmine": "3.0.0",
+    "karma": "2.0.0",
+    "karma-jasmine": "1.1.1",
+    "karma-phantomjs-launcher": "1.0.4",
+    "karma-webpack": "2.0.9",
+    "webpack": "3.10.0"
+  }
+}
